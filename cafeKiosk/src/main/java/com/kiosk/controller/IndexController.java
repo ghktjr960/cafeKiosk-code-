@@ -8,17 +8,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
 public class IndexController {
+	
 	private static final Logger logger = LoggerFactory.getLogger(IndexController.class);
 	
-//	@RequestMapping(value = "/", method = RequestMethod.GET)
-//	public String home() {
-//		logger.info("/ 경로");
-//		return "redirect:/home";
-//	}
-	
-	@RequestMapping(value="/home", method = RequestMethod.GET)
+	@RequestMapping(value="/", method = RequestMethod.GET)
 	public String index() {
-		logger.info("home경로");
-		return "/home/home";
+		logger.info("index");
+		return "/index/index";
 	}
 }

@@ -4,10 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>index</title>
 </head>
 <body>
-	dlrj??
+	<a href="#">포스기</a> 
+	<br/>
+	<a href="#">키오스크</a>
 	
 </body>
 </html>
