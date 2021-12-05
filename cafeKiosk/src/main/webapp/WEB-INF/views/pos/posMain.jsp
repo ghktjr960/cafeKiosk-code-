@@ -7,6 +7,6 @@
 <title>관리자 로그인</title>
 </head>
 <body>
-	로그인해라 마
+	<a href="/">돌아가</a>
 </body>
 </html>
