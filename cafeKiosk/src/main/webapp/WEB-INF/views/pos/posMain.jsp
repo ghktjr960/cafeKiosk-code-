@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index</title>
+<title>관리자 로그인</title>
 </head>
 <body>
-	<a href="/pos">포스기</a> 
-	<br/>
-	<a href="/kiosk/main">키오스크</a>
-	
+	로그인해라 마
 </body>
 </html>

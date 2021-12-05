@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index</title>
+<title>kiosk</title>
 </head>
 <body>
-	<a href="/pos">포스기</a> 
-	<br/>
-	<a href="/kiosk/main">키오스크</a>
-	
+	<a href="/">돌아가</a>
 </body>
 </html>
